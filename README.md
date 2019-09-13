@@ -1,0 +1,2 @@
+# LapseControllerMini
+Teensy timelapse controller
